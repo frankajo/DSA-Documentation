@@ -36,7 +36,9 @@ open source sites like kaggle or FRED. Though this data was shared by the facili
   - Slicers and Timelines: Filter PivotTables dynamically to explore data interactively.
   - Charts: Bar charts, pie charts for sales and customer visualization.
 - SQL Server ( For Querying and Analysis)
-- Power BI (For Creating Report)
+- Power BI (For interactive dashboard, visualization)
+  - Power Query for ETL
+  - Data Modeling
 - Ms Power Point (For Presentation)
 
 
